@@ -170,3 +170,4 @@ Use networkx `ego_graph()` method to get a radius=1 neighborhood around `jeff.sk
 * `enron.pdf` This is the PDF exported or generated from the notebook.
 
 ## Reference
+[`Exploration of Enron email data set`](https://github.com/parrt/msds501/blob/master/projects/enron.md)
